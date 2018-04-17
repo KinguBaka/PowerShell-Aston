@@ -24,6 +24,7 @@ while ($i -lt 11){
 }
 #>
 
+<#
 function hello($name)
 {
     "Hello " + [string]$name
@@ -31,3 +32,4 @@ function hello($name)
 
 hello("Tarik")
 hello("Toto")
+#>
